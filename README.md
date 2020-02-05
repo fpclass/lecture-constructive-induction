@@ -1,2 +1,3 @@
-# lecture14
-Code shown in the fourteenth lecture
+# Lecture: Equational reasoning (cont.)
+
+Code shown in the second lecture on equational reasoning.
