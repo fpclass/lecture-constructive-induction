@@ -1,3 +1,3 @@
-# Lecture: Equational reasoning (cont.)
+# Lecture: Constructive induction
 
-Code shown in the second lecture on equational reasoning.
+Code shown in the lecture on constructive induction.
