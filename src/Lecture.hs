@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
 -- Functional Programming (CS141)                                             --
--- Lecture 14: Fun with constructive induction                                --
+-- Lecture: Fun with constructive induction                                   --
 --------------------------------------------------------------------------------
 
-module Lecture14 where
+module Lecture where
 
 --------------------------------------------------------------------------------
 -- Expression language
